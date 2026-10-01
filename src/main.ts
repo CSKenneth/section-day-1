@@ -3,7 +3,7 @@
  * Simple starter template - customize to your heart's content!
  */
 
-import { count } from "node:console";
+//import { count } from "node:console";
 
 console.log("🎮 CMPM 121 - Starting...");
 
